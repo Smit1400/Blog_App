@@ -32,7 +32,7 @@
 
 ## Upload Post Page
 
-<img src="images/upload.jpg" alt="" width="250" height="500">
+<img src="images/add_post.jpg" alt="" width="250" height="500">
 
 
 #### How To Run 
